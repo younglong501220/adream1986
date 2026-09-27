@@ -1,0 +1,6 @@
+{
+  "name": "1986 哆啦A夢 FC紅白機經典重刻版",
+  "description": "完整致敬 1986 年 FC 紅白機百萬神作《哆啦A夢》的三合一復刻遊戲，包含開拓篇（俯視射擊）、魔境篇（橫向平台跳躍）與海底篇（水下搜救迷宮）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
